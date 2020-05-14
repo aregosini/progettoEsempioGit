@@ -1,0 +1,26 @@
+body {
+	margin: auto;
+	text-align: center;
+	padding: 5%;
+    background: #a0b376;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+	width: 40%;
+	height: 50%;
+	font-size: 50px;
+	padding: 20px;
+	background: #dbe8ff;
+	color: #472b27;
+	border: 0;
+}
+
+#card-container {
+    padding: 20px;
+    font-size: 40px;
+}
+
+.card {
+	padding: 10px;
+}

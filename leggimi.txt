@@ -1,0 +1,6 @@
+ciao a tutti
+
+Buongiorno. Dopo la provocazione di ieri riguardo all'API non  ho resistito e ho voluto provarlo.
+Ho creato le funzioni asincrone necessarie allo svolgimento dello stesso esercizio usando ciò che ha presentato ieri.
+Ho sfruttato le promise di JS usando le keyword "async" e "await", che rendono il codice molto più pulito rispetto alla concatenazione di ".then" e ".catch".
+In ogni caso l'esercizio risulta identico al precedente, con la sola differenza che occupa meno spazio ed è leggermente più lento a caricare le carte.
